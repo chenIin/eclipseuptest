@@ -7,6 +7,7 @@ public class HelloWord {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
+		System.out.println("wo shi ce shi d");
 	}
 
 }
